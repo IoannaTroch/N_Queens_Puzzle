@@ -4,9 +4,11 @@ An interactive Python application that solves the classic **N-Queens problem** u
 
 ## Screenshots
 
-![Main Interface](screenshot_menu.png)
-
-![N-Queens Solution](screenshot_solution.png)
+<p align="center">
+  <img src="screenshot_menu.png" width="600" alt="Main Interface">
+  <br><br>
+  <img src="screenshot_solution.png" width="600" alt="N-Queens Solution">
+</p>
 
 
 ## About the Project
